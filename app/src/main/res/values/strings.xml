@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">U2F Bridge</string>
+    <string name="main_info_text">U2F Bridge</string>
+    <string name="main_cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="unsupported_intent">App launches on U2F request.</string>
+</resources>
